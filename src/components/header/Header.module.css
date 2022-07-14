@@ -1,0 +1,18 @@
+.wrapper{
+    background: #25b8e7;
+    color: #ffff;
+    padding: 15px 12%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.wrapper nav{
+    display: flex;
+    align-items: center;
+    grid-gap: 20px;
+}
+.link{
+    color: #ffff;
+    /* font-size: ; */
+    text-decoration: none;
+}
